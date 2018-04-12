@@ -1,0 +1,7 @@
+First steps:
+    Whatch this post: https://disconnected.systems/blog/raspberry-pi-archlinuxarm-setup/
+    Make a .img file that is burnable with easydriver or rufus:
+    
+After succeding this make a new .img file that has a wifi auto run configuration script that connects to a wifi ssid through wpa_suplicant interface
+  
+
